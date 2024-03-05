@@ -1,4 +1,4 @@
-8{
+{
     "name": "Yui",
     "description": "Simple Telegram AI Chat bot made using OpenAI and Luna API",
     "logo": "https://telegra.ph//file/af53660a0306db2653fe6.jpg",
@@ -61,7 +61,7 @@
         }
     ],
     "formation": {
-        "worker": {
+        "web": {
             "quantity": 1,
             "size": "basic"
         }
